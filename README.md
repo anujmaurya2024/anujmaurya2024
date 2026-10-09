@@ -57,7 +57,7 @@ B.Tech Information Technology student at Hemvati Nandan Bahuguna Garhwal Univers
   <img src="https://streak-stats.demolab.com/?user=anujmaurya2024&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center"><sub>Stats and streak count public contributions only.</sub></p>
+<p align="center"><sub>Stats and streak count public contributions only. My full contribution graph, including private activity, is on my profile.</sub></p>
 
 ---
 
