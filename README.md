@@ -10,12 +10,15 @@
 
 ---
 
-- 🌱 I'm currently exploring **AI integration with Java** (OpenAI APIs, RAG)
+## 👋 About Me
+
+B.Tech Information Technology student at Hemvati Nandan Bahuguna Garhwal University. I build backend systems with Java and Spring Boot, focusing on secure REST APIs, layered architecture, and clean database design. I'm looking for a Java / Spring Boot backend internship.
+
+- 🌱 Currently exploring **AI integration with Java** (OpenAI APIs, RAG)
 - 🚀 All my projects are available at my [portfolio](https://anujwebsiteportfolio.netlify.app/)
 - 💬 Ask me about **Java, Spring Boot, REST APIs, SQL, Microservices**
 - 📫 How to reach me: **anujmauryaofficialacc@gmail.com**
-- 📄 Know about my experience: [Resume](./Anuj_Maurya_Resume.pdf)
-- 🎯 Seeking a **Java / Spring Boot Backend Internship**
+- 📄 Full experience: [Resume](./Anuj_Maurya_Resume.pdf)
 
 ---
 
@@ -28,22 +31,22 @@
 
 ---
 
-## 🛠️ Languages and Tools
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,mongodb,react,js,html,css,python,cpp,git,github,docker,maven,postman,jenkins,tensorflow,fastapi,nodejs,express,intellij,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,mongodb,react,js,html,css,python,cpp,git,github,docker,maven,postman,jenkins,tensorflow,fastapi,nodejs,express,intellij,vscode,linux" alt="Tech stack icons" />
 </p>
 
-**Backend:** Spring Boot, Spring MVC, Spring Data JPA, Hibernate, Spring Security, JWT, REST APIs, Microservices
-**Databases:** MySQL, PostgreSQL, MongoDB, Oracle XE
-**Frontend:** React.js, HTML, CSS, JavaScript
-**Data Structures & Algorithms:** Arrays, Strings, Linked Lists, Stack, Queue, Trees, Graphs, Dynamic Programming
-**Testing & DevOps:** JUnit, Git, Maven, Docker, CI/CD concepts, Jenkins, Postman, Swagger / OpenAPI 3
-**Machine Learning:** Python, Scikit-learn, TensorFlow, Pandas, NumPy
+- **Backend:** Spring Boot, Spring MVC, Spring Data JPA, Hibernate, Spring Security, JWT, REST APIs, Microservices
+- **Databases:** MySQL, PostgreSQL, MongoDB, Oracle XE
+- **Frontend:** React.js, HTML, CSS, JavaScript
+- **Data Structures & Algorithms:** Arrays, Strings, Linked Lists, Stack, Queue, Trees, Graphs, Dynamic Programming
+- **Testing & DevOps:** JUnit, Git, Maven, Docker, CI/CD concepts, Jenkins, Postman, Swagger / OpenAPI 3
+- **Machine Learning:** Python, Scikit-learn, TensorFlow, Pandas, NumPy
 
 ---
 
-## 📊  My GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=anujmaurya2024&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
@@ -54,13 +57,15 @@
   <img src="https://streak-stats.demolab.com/?user=anujmaurya2024&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
+<p align="center"><sub>Stats and streak count public contributions only.</sub></p>
+
 ---
 
 ## 📌 Pinned Repositories
 
 <p align="center">
   <a href="https://github.com/anujmaurya2024/E-COMMERCE-BACKEND"><img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=anujmaurya2024&repo=E-COMMERCE-BACKEND&theme=tokyonight" alt="E-Commerce Backend" /></a>
-  <a href="https://github.com/anujmaurya2024/F1zeronet"><img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=anujmaurya2024&repo=F1zeronet&theme=tokyonight" alt="ZeroNet Chat" /></a>
+  <a href="https://github.com/anujmaurya2024/algologic"><img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=anujmaurya2024&repo=algologic&theme=tokyonight" alt="Algologic" /></a>
 </p>
 <p align="center">
   <a href="https://github.com/anujmaurya2024/phytocare"><img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=anujmaurya2024&repo=phytocare&theme=tokyonight" alt="Phyto Scan" /></a>
