@@ -43,7 +43,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊  My GitHub Stats
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=anujmaurya2024&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
